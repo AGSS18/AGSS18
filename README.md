@@ -1,7 +1,6 @@
 <h1>Hi, I'm Ana Sala</h1>
 
 <strong>I'm a Front-End Developer based in Monterrey, México.</strong>
-- 👷🏻‍♀ I’m currently working as a freelancer while learning new technologies.
 - 👩‍💻 I’m currently learning more about and studying: NextJs, node.js, SQL, CSS advanced animations.
 - 💭 I speak spanish, english and i'm learning french.
 - 📫 How to reach me:  <a href="mailto:georgina.sala18@gmail.com">georgina.sala18@gmail.com </a>
